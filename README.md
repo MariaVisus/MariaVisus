@@ -17,18 +17,18 @@ Me interesa especialmente el desarrollo backend con Java, y he aprovechado este 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-green?logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
 
 #### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
   
 #### Bases de datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-red)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=orange)
   
 #### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
