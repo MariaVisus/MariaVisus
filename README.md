@@ -71,6 +71,10 @@ __
 📍 Zaragoza, España
 🎓 Desarrollo de Aplicaciones Multiplataforma (DAM) 
 
+### Contacto
+
+Email: mvisusb@gmail.com
+
 <!--
 **MariaVisus/MariaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
