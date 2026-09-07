@@ -1,4 +1,75 @@
-## Hi there 👋
+## ¡Hola! Soy María  🙋‍♀️
+
+### Desarrolladora de software en formación.
+
+Soy una chica positiva y entusiasta, y actualmente me encuentro cursando segundo de DAM.
+
+La tecnología siempre ha estado presente en mi vida. Mis anteriores estudios, desarrollados en Edimburgo, se centraban en la tecnología audiovisual. Pero, en mi constante interés por llegar a entender lo más profundo de las cosas, y al desarrollar un pequeño juego con Unreal, se despertó en mí un interés en el mundo de la programación, y decidí enfocar mi carrera en el desarrollo de software. El primer curso de DAM me ha permitido descubrir más sobre un mundo que me apasiona y que me entusiasma seguir explorando. 
+
+Me interesa especialmente el desarrollo backend con Java, y he aprovechado este verano para expandir mis conocimientos en este campo. A inicios del verano exploré **C# y WindowsForms**, inspirada por la empresa en la que realicé prácticas de primero. Pero mi gran descubrimiento del verano, y el proyecto que más me ha motivado ha sido el que he realizado con  **Spring Boot**, ya que este framework me ha permitido descubrir una manera más profesional y estandarizada de trabajar que ha despejado algunas de las incógnitas que tenía al finalizar primero.
+
+ 🔍 Actualmente estoy buscando **prácticas duales** para segundo, ya que me gustaría poder aprovechar este curso para formarme en un entorno profesional y ganar experiencia.
+
+ 💪 Soy una persona trabajadora y dinámica. En todos mis trabajos siempre he mantenido una buena relación tanto con mis jefes como mis compañeros puesto que saben que soy una persona comprometida y resolutiva que ama los retos y en la que se puede confiar. 
+
+ 
+### 👾Tecnologías
+#### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+
+#### Frontend
+- HTML
+- CSS
+- Thymeleaf
+- Bootstrap
+  
+#### Bases de datos
+- SQL
+- SQL Server
+- MySQL
+  
+#### Herramientas
+- Git & GitHub
+- Maven
+- IntelliJ IDEA
+
+## ✨ Proyecto destacado
+### Mini-Contratos
+He realizado este proyecto durante el verano para poder explorar Spring Boot en un proyecto personal desde cero. 
+
+Esta aplicación web, desarrollada con Java y Spring Boot, permite gestionar personas, crear plantillas reutilizables formadas por diferentes bloques, y generar contratos automáticamente, sustituyendo los placeholders de las plantillas por los datos de las personas seleccionadas.
+
+Es el MVP de un proyecto que continuaré desarrollando. El objetivo final es que, además de personas, se puedan gestionar viviendas, y que los bloques puedan tener variantes. De este modo, en función de los ajustes del usuario se pueda reutilizar una misma plantilla para multitud de personas, viviendas e incluso condiciones diferentes (por ejemplo en caso de que una vivienda sea adquirida por un matrimonio o una persona individual, etc.).
+
+El objetivo del verano era conseguir tener el MVP, ya que esto asentaba las bases para entender Spring Boot y para entender mejor cómo gestionar un proyecto de manera más organizada y profesional. 
+
+Además, también he aprovechado la oportunidad para explorar algunas herramientas front-end como Bootstrap 5.
+
+El proyecto incluye:
+
+CRUD de personas, plantillas y bloques
+Validación de datos
+Gestión y reordenación de bloques
+Sistema de placeholders
+Generación de contratos HTML
+Interfaz responsive con Bootstrap
+Pruebas funcionales documentadas
+
+👉  Puedes leer más sobre el proyecto Mini-Contratos [en este enlace.](https://github.com/MariaVisus/mini-contratos)
+
+___
+
+### 🎯 Objetivo
+
+Seguir creciendo como desarrolladora, adquirir experiencia profesional mientras finalizo los estudios haciendo este segundo año en **modalidad dual**, y participar en proyectos donde pueda seguir formándome y expandiendo mis conocimientos.
+
+__
+
+📍 Zaragoza, España
+🎓 Desarrollo de Aplicaciones Multiplataforma (DAM) 
 
 <!--
 **MariaVisus/MariaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
